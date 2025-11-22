@@ -86,8 +86,9 @@ npm start
 Conexión Frontend → Backend
 
 El frontend consume la API del backend mediante:
+```
 http://localhost:8080/api/results
-
+```
 
 👤 Autor
 
